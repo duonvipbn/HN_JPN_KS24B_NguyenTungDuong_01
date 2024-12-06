@@ -4,7 +4,7 @@ int main(){
 	int n, rows, cols;
 	int arr[100][100];
 	do{
-		printf("---MENU---\n");
+		printf("MENU\n");
 		printf("1. Nhap kich co va gia tri cac phan tu cua mang\n");
 		printf("2. In gia tri cac phan tu cua mang theo ma tran\n");
 		printf("3. In ra cac phan tu nam tren duong bien va tinh tich\n");
